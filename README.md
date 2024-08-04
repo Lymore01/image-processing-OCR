@@ -35,4 +35,4 @@ After running the script, you will see the output in the console, which will dis
 Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
 [([[7, 0], [381, 0], [381, 81], [7, 81]], 'IT20 BOM', 0.7710774043955325)]
 ```
-![Detected Rectangles](images/sample-output.png)
+
