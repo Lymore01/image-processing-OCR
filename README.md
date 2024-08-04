@@ -17,3 +17,22 @@ Make sure you have Python installed on your system. You can install the required
 
 ```bash
 pip install easyocr opencv-python imutils matplotlib
+```
+## Usage
+Save your images in the images directory.
+Update the image_path variable in the script to point to your image file.
+Run the script:
+```bash
+python your_script_name.py
+```
+Replace your_script_name.py with the name of your Python script.
+
+## Example Output
+After running the script, you will see the output in the console, which will display the extracted text. The processed image with detected rectangles around the text areas will also be shown.
+
+## Sample Output:
+```bash
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[([[7, 0], [381, 0], [381, 81], [7, 81]], 'IT20 BOM', 0.7710774043955325)]
+```
+![Detected Rectangles](images/sample-output.png)
