@@ -36,5 +36,6 @@ Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is muc
 [([[7, 0], [381, 0], [381, 81], [7, 81]], 'IT20 BOM', 0.7710774043955325)]
 ```
 
+![Detected Rectangles](images/cartwo.png)
 ![Detected Rectangles](images/output.png)
 
